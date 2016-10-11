@@ -7,6 +7,8 @@ public class Base {
 	
 	public void getAge(){
 		
+		
+		
 	}
 
 }
