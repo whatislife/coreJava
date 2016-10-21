@@ -6,6 +6,6 @@ public class Test {
 		int num = JobStatus.AUTOCLEANED.getCode();
 		System.out.println(num);
 		
-		System.out.println("sdfsdfsdfsdfsdf")
+		System.out.println("songjian");
 	}
 }
