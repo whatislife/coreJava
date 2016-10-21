@@ -7,6 +7,6 @@ public class Test {
 		System.out.println(num);
 		
 		System.out.println("songjian");
-		String name = "2";
+		String name = "12";
 	}
 }
