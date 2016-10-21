@@ -8,5 +8,6 @@ public class Test {
 		
 		System.out.println("songjian");
 		String next = "";
+		String name = ":----:";
 	}
 }
