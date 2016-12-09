@@ -12,6 +12,8 @@ import net.sf.json.JSONObject;
  * @author silk
  *
  */
+
+
 public class GetCityList {
     /**
      * 调用获取城市列表接口,返回所有数据
