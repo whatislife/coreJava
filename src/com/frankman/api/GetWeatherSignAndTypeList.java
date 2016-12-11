@@ -5,7 +5,7 @@ import net.sf.json.JSONObject;
  
  
 /**
- * 天气种类及标识列表接口调用JAVA示例123
+ * 天气种类及标识列表接口调用JAVA示例
  * @author silk
  */
 public class GetWeatherSignAndTypeList {
@@ -17,7 +17,6 @@ public class GetWeatherSignAndTypeList {
      * @return
      */
     public static String excute(){
-        String name = "";
     	return PureNetUtil.get(URL);//调用工具类获取接口数据
         
     }
