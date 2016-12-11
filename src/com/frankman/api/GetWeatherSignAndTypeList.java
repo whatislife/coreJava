@@ -5,7 +5,7 @@ import net.sf.json.JSONObject;
  
  
 /**
- * 天气种类及标识列表接口调用JAVA示例
+ * 天气种类及标识列表接口调用JAVA示例123
  * @author silk
  */
 public class GetWeatherSignAndTypeList {
