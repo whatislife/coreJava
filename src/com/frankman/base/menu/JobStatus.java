@@ -13,6 +13,8 @@ package com.frankman.base.menu;
 public enum JobStatus {
 
 	UNKNOWN(0, "未知"),
+	
+	
 	//
 	WAITING(11, "待运行"), WAITING_FOR_RETRYING(21, "待重试"),
 	//
