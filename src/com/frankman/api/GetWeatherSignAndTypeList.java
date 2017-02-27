@@ -8,6 +8,8 @@ import net.sf.json.JSONObject;
  * 天气种类及标识列表接口调用JAVA示例
  * @author silk
  */
+ 
+ 
 public class GetWeatherSignAndTypeList {
     //接口地址,因为只需要传入一个固定的key为参数,所以设为常量
 //    private static final String URL= "http://v.juhe.cn/weather/uni?key=***a7558b2e0bedaa19673f74a6809ce";
