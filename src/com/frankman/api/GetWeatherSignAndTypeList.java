@@ -17,7 +17,7 @@ public class GetWeatherSignAndTypeList {
      * @return
      */
     public static String excute(){
-    	return PureNetUtil.get(URL);//调用工具类获取接口数据
+    	return PureNetUtil.get(URL);//调用工具类获取接口数据nihao
         
         
         
