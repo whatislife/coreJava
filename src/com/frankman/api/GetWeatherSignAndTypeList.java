@@ -16,9 +16,7 @@ public class GetWeatherSignAndTypeList {
 	private static final String URL = "http://testing.mail.yongche.org/sendTextMail?subject=test&message=test&to_mail=zhangchunsheng%40yongche.com&cc=guoxiaodong%40yongche.com%2Cwangjing%40yongche.com%2Czhenganquan%40yongche.com&DEBUG=1";
     /**
      * 通过工具类获取数据
-     * @return  
-     
-     
+     * @return
      */
     public static String excute(){
     	//合并
