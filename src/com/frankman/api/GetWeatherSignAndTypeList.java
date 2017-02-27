@@ -11,6 +11,8 @@ import net.sf.json.JSONObject;
  
  
 public class GetWeatherSignAndTypeList {
+	
+	
     //接口地址,因为只需要传入一个固定的key为参数,所以设为常量
 //    private static final String URL= "http://v.juhe.cn/weather/uni?key=***a7558b2e0bedaa19673f74a6809ce";
 	private static final String URL = "http://testing.mail.yongche.org/sendTextMail?subject=test&message=test&to_mail=zhangchunsheng%40yongche.com&cc=guoxiaodong%40yongche.com%2Cwangjing%40yongche.com%2Czhenganquan%40yongche.com&DEBUG=1";
